@@ -60,13 +60,6 @@ This Software lacks security features and should:
 ### 8. Acceptance
 
 BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS DISCLAIMER AND AGREE TO ITS TERMS. You understand that this is an educational tool only and assume all risks associated with its use.
-
-### 9. Contact
-
-For questions about this disclaimer or the educational purposes of this Software:
-- GitHub Issues: [repository issues page]
-- Email: [your educational email]
-
 ---
 
-**Copyright © 2025 - For Educational Purposes Only**
+**Copyright © 2026 - For Educational Purposes Only**
