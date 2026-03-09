@@ -1,4 +1,4 @@
-# 🇨🇦 RTR Real-Time Payment Rail Monitoring Dashboard
+# 🇨🇦 AI-ML RTR Real-Time Payment Rail Monitoring Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-2.14.0-green)](https://dash.plotly.com/)
