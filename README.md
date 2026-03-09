@@ -10,8 +10,10 @@
 > ⚠️ **IMPORTANT: This dashboard uses 100% SYNTHETIC/FAKE data for educational purposes only. Not for production use.**
 
 A comprehensive real-time payment monitoring dashboard simulating Canada's Real-Time Rail (RTR) payment system with **AI/ML-powered risk detection**, based on Payments Canada ISO 20022 specifications v1.4. **All transactions, bank names, and payment data shown are completely fake and randomly generated.**
+<img width="1912" height="886" alt="image" src="https://github.com/user-attachments/assets/9f26b2e6-f7ce-49b0-9cdc-3681bec39c8c" />
+<img width="1888" height="630" alt="image" src="https://github.com/user-attachments/assets/3cef8a92-009b-4069-8bce-623d4ae0be58" />
+<img width="1890" height="828" alt="image" src="https://github.com/user-attachments/assets/03f75d78-a6e2-481d-813a-515cb0828cfe" />
 
-![Dashboard Overview](docs/images/dashboard_overview.png)
 
 ## ✨ Features
 
